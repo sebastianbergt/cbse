@@ -18,8 +18,7 @@ Software units typically are
 2. Force Review on code changes
 This is solved by hashing a given function (ignoring its whitespaces) and comparing the result to earlier hashes. Running the requirements document with python3 (e.g. in CI/CD) will now produce warnings
 3. Produce a .pdf document as an artifact
-DOES NOT WORK YET
-
+Currently this is a super simplified table export.
 # Get the code and install requirements
 
 git clone git@github.com:sebastianbergt/cbse.git
