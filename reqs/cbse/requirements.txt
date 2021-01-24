@@ -1,0 +1,4 @@
+sha256==0.1
+pathlib==1.0.1
+Jinja2==2.11.2
+WeasyPrint==52.2
