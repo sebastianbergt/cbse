@@ -17,7 +17,7 @@ Both should be kept in the same repo, so they can never get out of sync.
 
 2. Achieve Traceability
 
-Software units typically are 
+Requirements are typically traced to software units.
 
 2. Force Review on code changes
 
