@@ -30,6 +30,7 @@ Currently this is a super simplified table export.
 # Get the code and install requirements
 
 git clone git@github.com:sebastianbergt/cbse.git
+
 pip3 install -r reqs/cbse/requirements.txt 
 
 # Usage
